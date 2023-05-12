@@ -1,4 +1,4 @@
-# <span style="color:blue">Wecome to Py!</span>. 
+# <span style="color:blue">Wecome to Py!</span>
 ### Lorem ipsum dolor sit armet is some funny text : [Google](https://www.google.com/)
 + Boo
 + Foo
