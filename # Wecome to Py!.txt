@@ -8,7 +8,7 @@
 
 + Shoo!
 
-### I am text with some **Strong** and *wonky* stuff inside! Also some inline code: ```printf("boo")```.
+### I am text with some **Strong** and *wonky* stuff inside! Also some inline code: printf("boo").
 ### Cool, right?   
 ## Links and pics below
 ### I am a picture that doesn't work
@@ -20,5 +20,4 @@
 
 ## Some code
 ### The code below is a language called "Python". Cool, right?
-### ```print("Dwarves are better than elves, fight me!")```
-​
+### print ("Dwarves are better than elves, fight me!")
