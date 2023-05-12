@@ -7,6 +7,7 @@
         - Doo
 
 + Shoo!
++ Noo
 
 ### I am text with some **Strong** and *wonky* stuff inside! Also some inline code: ```printf("boo")```.
 ### Cool, right?   
