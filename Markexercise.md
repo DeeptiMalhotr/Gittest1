@@ -1,4 +1,4 @@
-# <span style="color:blue">Wecome to Py!</span>
+# Wecome to Py!
 ### Lorem ipsum dolor sit armet is some funny text : [Google](https://www.google.com/)
 + Boo
 + Foo
@@ -23,3 +23,8 @@
 ### The code below is a language called "Python". Cool, right?
 ### ```print("Dwarves are better than elves, fight me!")```
 ​
+## Creating a Task list to do
+- [x] Create File
+- [] Add File
+- [] Commit File
+- [] Push File
