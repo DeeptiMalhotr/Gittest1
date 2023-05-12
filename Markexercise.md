@@ -24,7 +24,10 @@
 ### ```print("Dwarves are better than elves, fight me!")```
 ​
 ## Creating a Task list to do
-- [x] Create File
-- [] Add File
-- [] Commit File
-- [] Push File
+_ [x] Create File
+
+_ [] Add File
+
+_ [] Commit File
+
+_ [] Push File
